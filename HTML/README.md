@@ -1,7 +1,7 @@
 # HTML
 
 - 태그의 기본적 구조 및 사용법   
-+ 열리는 태그와 닫히는 태그가 짝지어 존재하는 경우 : &ltexample>contents&lt/example>   
++ 열리는 태그와 닫히는 태그가 짝지어 존재하는 경우 : &lt;example>contents&lt;/example>   
 + 혼자 존재하는 태그의 경우 : &ltexample>   
    
 - 글자 꾸밈 태그  
