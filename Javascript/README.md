@@ -32,18 +32,23 @@
 ----------------------
 ### 추가된 기능
 
-- 왼쪽 바의 ㅎㅇ라고 적힌 텍스트 위에 마우스를 갖다대면 메뉴를 출력합니다.   
+  
    
-- 메뉴의 최상단에 위치한 버튼을 누르면 화면이 어두워집니다. 이미 화면이 어두운 경우, 밝아집니다. 또한 index 페이지 본문의 내용이 바뀝니다.   
    
-- ㅎㅇ라고 적힌 텍스트나 본문 상단의 버튼을 누르면 누르지 말라는 메시지를 출력합니다.   
+   
+
 
 ----------------------
 ### 실행 이미지
 
 ![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Javascript/runcapture.JPG)   
-![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Javascript/runcapture2.JPG)   
+   
+![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Javascript/runcapture2.JPG)  
+- 메뉴의 최상단에 위치한 버튼을 누르면 화면이 어두워집니다. 이미 화면이 어두운 경우, 밝아집니다. 또한 index 페이지 본문의 내용이 바뀝니다.
+   
 ![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Javascript/runcapture3.JPG)   
+- ㅎㅇ라고 적힌 텍스트나 본문 상단의 버튼을 누르면 누르지 말라는 메시지를 출력합니다.   
+- 왼쪽 바의 ㅎㅇ라고 적힌 텍스트 위에 마우스를 갖다대면 메뉴를 출력합니다.   
 ----------------------
 
 ATOM으로 코딩하였음
