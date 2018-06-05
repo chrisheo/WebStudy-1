@@ -42,7 +42,8 @@
 ### 실행 이미지
 
 ![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Javascript/runcapture.JPG)   
-
+![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Javascript/runcapture2.JPG)   
+![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Javascript/runcapture3.JPG)   
 ----------------------
 
 ATOM으로 코딩하였음
