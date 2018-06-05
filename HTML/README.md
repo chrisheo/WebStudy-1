@@ -11,7 +11,7 @@ HTML 기본 문법 태그
 ----------------------
 ### 실행 이미지
 
-![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/HTML/runcapture.JPG “웱”) 
+![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/HTML/runcapture.JPG) 
 
 ----------------------
 
