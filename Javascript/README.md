@@ -11,7 +11,7 @@ js파일 분리 및 불러오기
 ----------------------
 ### 실행 이미지
 
-![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Javascript/runcapture.JPG) 
+![웱](
 
 ----------------------
 
