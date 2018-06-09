@@ -15,9 +15,14 @@ Node.js 및 Javascript의 기본적 문법구조와 사용법에 대한 연습
 -------------------------------------------
 
 - 주소 문자열과 요청 파라미터 처리   
-
+![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Nodejs/NodeExample/cap3.JPG)   
+   
 - 이벤트 처리   
-
+![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Nodejs/NodeExample/cap4.JPG)   
+   
 - 파일 처리
-
+![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Nodejs/NodeExample/cap5.JPG)   
+   
 - 로그 파일 남기기
+![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Nodejs/NodeExample/cap6.JPG)   
+   
