@@ -1,20 +1,12 @@
+# View
 
+ejs 뷰 템플릿, pug view 템플릿을 사용함.
 
-# GeoExample
+### 기능 및 사진
 
-
-
-## Usage
-
-
-
-## Developing
-
-
-
-### Tools
-
-Created with [Nodeclipse](https://github.com/Nodeclipse/nodeclipse-1)
- ([Eclipse Marketplace](http://marketplace.eclipse.org/content/nodeclipse), [site](http://www.nodeclipse.org))   
-
-Nodeclipse is free open-source project that grows with your contributions.
+- ejs    
+![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Nodejs/ViewExample/cap1.JPG)   
+![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Nodejs/ViewExample/cap2.JPG)   
+   
+- pug    
+![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Nodejs/ViewExample/cap3.JPG)   
