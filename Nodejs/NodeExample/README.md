@@ -29,3 +29,4 @@ Node.js 및 Javascript의 기본적 문법구조와 사용법에 대한 연습
 -------------------------------------------
 
 - 기본적인 웹서버   
+![웱](https://raw.githubusercontent.com/junhyuk0801/WebStudy/master/Nodejs/NodeExample/cap7.JPG)   
