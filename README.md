@@ -16,4 +16,4 @@ RETURN 웹스터디 결과물
 
 ----------------------
 ### Nodejs   
-Brackets 및 nodejs 설치, Javascript 심화 문법, 웹서버, 데이터베이스 사용, 모듈화 
+Brackets 및 nodejs 설치, Javascript 심화 문법, 웹서버, 데이터베이스 사용, 모듈화 등
